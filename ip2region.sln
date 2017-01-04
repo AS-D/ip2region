@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip2region", "ip2region\ip2region.csproj", "{DC76D77A-0B5F-449A-A969-2D18FFE48811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC76D77A-0B5F-449A-A969-2D18FFE48811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC76D77A-0B5F-449A-A969-2D18FFE48811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC76D77A-0B5F-449A-A969-2D18FFE48811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC76D77A-0B5F-449A-A969-2D18FFE48811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
